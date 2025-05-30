@@ -1,1 +1,1 @@
-# geojuba
+# jubageo
